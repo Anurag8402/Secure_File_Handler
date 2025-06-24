@@ -74,6 +74,8 @@ SecureFileHider/
 
 ## 📸 Screenshots
 ![Screenshot 2025-06-24 225121](https://github.com/user-attachments/assets/d6f73c30-1289-47d9-b9c1-29f795544f12)
+![image](https://github.com/user-attachments/assets/2877257e-7d2b-48e6-8916-15f32a93db22)
+
 
 
 ---
