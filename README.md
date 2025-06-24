@@ -1,6 +1,8 @@
 # 🔒 Secure File Hider - Java Desktop App
 
 A Java-based application to securely hide, encrypt, and manage files using email-based OTP authentication.
+![image](https://github.com/user-attachments/assets/5fced007-74a8-4a7d-9e2c-05d1931f7859)
+
 
 ---
 
