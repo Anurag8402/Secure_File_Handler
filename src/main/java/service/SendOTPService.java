@@ -16,7 +16,7 @@ public class SendOTPService {
         String to = email;
 
         // Sender's email ID needs to be mentioned
-        String from = "anuraganilyadav842002@gmail.com";
+        String from = "anuraganilyadav@gmail.com";
 
         // Assuming you are sending email from through gmails smtp
         String host = "smtp.gmail.com";
