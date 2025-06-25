@@ -22,24 +22,7 @@ A Java-based application to securely hide, encrypt, and manage files using email
 - JavaMail API
 - Eclipse IDE
 
----
 
-## 📂 Project Structure
-```
-SecureFileHider/
-├── src/
-│   └── in/ay/
-│       ├── AuthService.java
-│       ├── EncryptionUtils.java
-│       ├── FileService.java
-│       └── MainApp.java
-├── lib/
-│   └── mail.jar
-└── db/
-    └── secure_file_hider.sql
-```
-
----
 
 ## 🧪 Setup Instructions
 1. Clone the repository:
