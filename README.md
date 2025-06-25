@@ -49,21 +49,19 @@ SecureFileHider/
 2. Import into Eclipse as a Java Project
 3. Create MySQL database and tables:
    ```sql
-   CREATE DATABASE secure_files;
+   CREATE DATABASE secure_file;
 
    CREATE TABLE users (
        id INT AUTO_INCREMENT PRIMARY KEY,
+       name varchar(100),
        email VARCHAR(100),
-       otp VARCHAR(10)
+       path varchar(100)
    );
 
-   CREATE TABLE files (
+   CREATE TABLE data (
        id INT AUTO_INCREMENT PRIMARY KEY,
-       user_id INT,
-       filename VARCHAR(200),
        filepath TEXT,
-       is_hidden BOOLEAN,
-       FOREIGN KEY (user_id) REFERENCES users(id)
+       bin_data Blob
    );
    ```
    
